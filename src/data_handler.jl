@@ -10,8 +10,6 @@ Potential world representations:
 4- Raw images
 =#
 
-using JLD
-
 mutable struct BlockInstance
     world
     source
